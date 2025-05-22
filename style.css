@@ -1,1 +1,10 @@
-body { font-family: Arial; text-align: center; background: #f8f4ed; color: #333; } img { width: 300px; margin: 20px auto; }
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #fef9f2;
+    color: #333;
+}
+img {
+    margin: 10px auto;
+}
